@@ -1,1 +1,1 @@
-permission for only user
+giving only user permission
