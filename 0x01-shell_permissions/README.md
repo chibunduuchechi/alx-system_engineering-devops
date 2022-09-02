@@ -1,1 +1,1 @@
-file permission
+permits everybody
