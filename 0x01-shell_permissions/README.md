@@ -1,1 +1,1 @@
-switches from current user to Bettys
+prints effectively the username of current user
