@@ -1,2 +1,2 @@
-list all files and boot directory
+prints a file
 
