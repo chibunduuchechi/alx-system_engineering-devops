@@ -1,1 +1,1 @@
-mirrior permission file
+directories permissions
