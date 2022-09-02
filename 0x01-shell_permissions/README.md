@@ -1,1 +1,1 @@
-print names
+displays user groups
