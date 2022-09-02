@@ -1,1 +1,1 @@
-copies all HTML files
+deleting files in directory
