@@ -1,1 +1,1 @@
-permits everybody
+permission for only user
