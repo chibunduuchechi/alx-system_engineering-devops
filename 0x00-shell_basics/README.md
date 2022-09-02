@@ -1,1 +1,1 @@
-list all files
+copies all HTML files
