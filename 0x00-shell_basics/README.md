@@ -1,2 +1,2 @@
-delete my first directory
+ changes the working directory to the previous one
 
