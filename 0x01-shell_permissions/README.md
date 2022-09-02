@@ -1,1 +1,1 @@
-owners permission
+file permission
