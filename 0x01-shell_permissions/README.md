@@ -1,1 +1,1 @@
-prints effectively the username of current user
+prints username of current user
