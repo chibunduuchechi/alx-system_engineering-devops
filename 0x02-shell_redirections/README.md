@@ -1,1 +1,1 @@
-A script printing the content of a file
+printing content of two files
