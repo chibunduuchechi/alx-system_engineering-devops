@@ -1,1 +1,1 @@
-A script that prints a confused similey
+A script that prints the content of a file
