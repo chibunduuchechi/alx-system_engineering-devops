@@ -1,1 +1,1 @@
-A script that prints the content of a file
+A script printing the content of a file
