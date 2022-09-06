@@ -1,1 +1,1 @@
-displays all users and their home directories and sorted by user
+Displaying all lines of a file including caps
