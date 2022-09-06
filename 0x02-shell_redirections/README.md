@@ -1,1 +1,1 @@
-displaying all lines of a file including caps
+creating files with contents inside it
