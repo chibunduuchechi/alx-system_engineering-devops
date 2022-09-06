@@ -1,1 +1,1 @@
-Display lines except a particular one 
+Displaying all lines of a file
