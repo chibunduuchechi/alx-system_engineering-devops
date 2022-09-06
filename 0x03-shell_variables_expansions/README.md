@@ -1,1 +1,1 @@
-creating an alias
+printing and making a current user
