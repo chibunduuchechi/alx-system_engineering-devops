@@ -1,1 +1,1 @@
-a script that list functions local and environment variables
+a script printing a local variable
