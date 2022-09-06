@@ -1,1 +1,1 @@
-Display lines containing a pattern and three lines
+Display lines except a particular one 
