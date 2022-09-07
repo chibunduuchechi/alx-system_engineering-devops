@@ -1,1 +1,1 @@
-a script dividing two environment variables
+a script printing a variable to the power of another variable
