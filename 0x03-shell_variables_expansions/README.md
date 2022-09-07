@@ -1,1 +1,1 @@
-a script converting from base two to base ten
+a script that prints all possible combinations of two letters except oo
