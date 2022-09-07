@@ -1,1 +1,1 @@
-a script printing a variable to the power of another variable
+a script converting from base two to base ten
