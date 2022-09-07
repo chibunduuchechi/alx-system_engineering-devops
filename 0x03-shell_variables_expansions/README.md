@@ -1,1 +1,1 @@
-a script adding an environment variable to a number
+a script dividing two environment variables
