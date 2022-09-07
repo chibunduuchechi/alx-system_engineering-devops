@@ -1,1 +1,1 @@
-a script creating a new global variable
+a script adding an environment variable to a number
