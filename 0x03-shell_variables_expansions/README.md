@@ -1,1 +1,1 @@
-a script adding dirctory to  a path
+a script that converts from base ten to sixteen
