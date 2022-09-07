@@ -1,1 +1,1 @@
-a script that converts from base ten to sixteen
+a script that encodes and decodes text using the rot13 encryption
